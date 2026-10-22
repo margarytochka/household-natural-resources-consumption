@@ -14,9 +14,9 @@ Does household gas consumption depend on weather and income? Specifically:
 
 | Dataset | Content | Source |
 |---|---|---|
-| Gas consumption | Consumption per municipality and household type, 2012-2021 | [source] |
-| Weather | Degree days and temperature per municipality | [source] |
-| Income | Median income per municipality | [source] |
+| Gas consumption | Consumption per municipality and household type, 2012-2021 | 
+| Weather | Degree days and temperature per municipality |
+| Income | Median income per municipality | 
 
 **Municipalities:** Asten, Wageningen, Leidschendam-Voorburg, Enschede, Leudal.
 **Household types:** Apartment, Detached house.
