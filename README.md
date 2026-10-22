@@ -39,6 +39,13 @@ The raw data is included in `data/`.
 
 <img width="896" height="477" alt="image" src="https://github.com/user-attachments/assets/5c667651-0f3c-4bc5-9e1c-9c658b1697b1" />
 
+## Posters
+
+Two posters summarising the project were produced for the course:
+
+- [Poster 1: [short title]](posters/poster1.pdf)
+- [Poster 2: [short title]](posters/poster2.pdf)
+
 
 ## Limitations
 
