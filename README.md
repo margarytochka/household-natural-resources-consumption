@@ -12,8 +12,8 @@ Does household gas consumption depend on weather and income? Specifically:
 
 ## Data
 
-| Dataset | Content | Source |
-|---|---|---|
+| Dataset | Content |
+|---|---|
 | Gas consumption | Consumption per municipality and household type, 2012-2021 | 
 | Weather | Degree days and temperature per municipality |
 | Income | Median income per municipality | 
